@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/PetrolHeadCustoms/static/css/main.d0096563.css",
+    "main.js": "/PetrolHeadCustoms/static/js/main.571ba14b.js",
+    "static/media/video.mp4": "/PetrolHeadCustoms/static/media/video.ec15376e0bdfafadc468.mp4",
+    "static/media/right.jpg": "/PetrolHeadCustoms/static/media/right.72fccf251c343decef14.jpg",
+    "static/media/banner.jpg": "/PetrolHeadCustoms/static/media/banner.513c3ea17f5f601b239c.jpg",
+    "static/media/left.jpg": "/PetrolHeadCustoms/static/media/left.81694e0d21b3e3783e80.jpg",
+    "static/media/bike.jpg": "/PetrolHeadCustoms/static/media/bike.6f5239e204fe553a3acc.jpg",
+    "static/media/logo.jpg": "/PetrolHeadCustoms/static/media/logo.3e6ea0c4577bb1940f27.jpg",
+    "index.html": "/PetrolHeadCustoms/index.html",
+    "main.d0096563.css.map": "/PetrolHeadCustoms/static/css/main.d0096563.css.map",
+    "main.571ba14b.js.map": "/PetrolHeadCustoms/static/js/main.571ba14b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0096563.css",
+    "static/js/main.571ba14b.js"
+  ]
+}
